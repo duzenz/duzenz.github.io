@@ -2,14 +2,14 @@
 title: "Define Alias with Parameters"
 read_time: true
 tags:
-    - ubuntu
-    - grep command
-    - linux
-    - alias
-    - alias parameters
-    - alias with parameters
-    - unix
-    - bashrc file
+  - ubuntu
+  - grep command
+  - linux
+  - alias
+  - alias parameters
+  - alias with parameters
+  - unix
+  - bashrc file
 ---
 
 In my code bases I was always using grep command with a lot of parameters.
