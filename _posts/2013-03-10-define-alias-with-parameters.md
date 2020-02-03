@@ -1,5 +1,5 @@
 ---
-title:  "Define Alias with Parameters"
+title: "Define Alias with Parameters"
 read_time: true
 tags:
     - ubuntu
@@ -12,7 +12,7 @@ tags:
     - bashrc file
 ---
 
-In my code bases I was always using <b>grep</b> command with a lot of parameters.
+In my code bases I was always using grep command with a lot of parameters.
 
 For example;
 ```bash
@@ -21,7 +21,7 @@ grep -ir --exclude-dir=".svn" --color "yourString" searchFolderName/
 Everytime typing this command started to become annoying for me. 
 For that reason I searched a solution for that problem and found an elegant way to achieve that.
 
-Firstly open up your terminal and open file<b> ".bashrc"</b>.  
+Firstly open up your terminal and open file ".bashrc".  
 After that paste the below code at the end of the file.
 ```bash
 custom() {
@@ -42,4 +42,4 @@ Then you can use your new alias with parameters.
 mygrep "yourString"
 ``` 
 
-You can give other parameters with <b>$2, $3, $4</b>
+You can give other parameters with $2, $3, $4
