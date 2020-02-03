@@ -1,20 +1,15 @@
 ---
-layout: post
-title: Define Alias with Parameters
-date: '2013-03-10T23:30:00.000+02:00'
-author: duzenz
+title:  "Define Alias with Parameters"
+read_time: true
 tags:
-- ubuntu
-- grep command
-- linux
-- alias
-- alias parameters
-- alias with parameters
-- unix
-- bashrc file
-modified_time: '2013-03-11T11:11:29.520+02:00'
-blogger_id: tag:blogger.com,1999:blog-3877622808717317656.post-2613934672404225426
-blogger_orig_url: https://duzenz.blogspot.com/2013/03/define-alias-with-parameters.html
+    - ubuntu
+    - grep command
+    - linux
+    - alias
+    - alias parameters
+    - alias with parameters
+    - unix
+    - bashrc file
 ---
 
 In my code bases I was always using <b>grep</b> command with a lot of parameters.
