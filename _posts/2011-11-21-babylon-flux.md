@@ -4,6 +4,7 @@ read_time: true
 tags:
   - babylon
   - flux
+toc: true
 ---
 
 İşe yarar programlar buldukça burada yazmaya çalışıyorum genelde. Bu yazımda da bunlardan iki tanesini yazacağım.
