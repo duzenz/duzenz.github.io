@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "NO COMMENT"
+title                    : "/*NO COMMENT*/"
 title_separator          : "-"
 subtitle                 : "A Coder's Bug Diary"
 name                     : "Zafer Duzen"
@@ -99,9 +99,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : google # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : UA-157982714-1
     anonymize_ip         : # true, false (default)
 
 
