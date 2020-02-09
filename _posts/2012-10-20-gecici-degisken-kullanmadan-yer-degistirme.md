@@ -1,10 +1,12 @@
 ---
 title: "Geçici Değişken Kullanmadan Değişken Değerlerini Yer Değiştirme"
 read_time: true
+categories:
+  - java
 tags:
-	- değişken yer değiştirme
-	- geçici değişken
-	- swap
+  - değişken yer değiştirme
+  - geçici değişken
+  - swap
 ---
 
 Bu yazımda daha önceden bilmediğim görünce bunu da kullanabilirmişiz dediğim bir yapıdan bahsedeceğim.
