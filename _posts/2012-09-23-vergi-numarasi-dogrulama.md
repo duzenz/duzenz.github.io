@@ -1,12 +1,11 @@
 ---
-title: "Vergi Numarası Doğrulama"
+title: "Vergi Numarası Dogrulama"
 read_time: true
 tags:
-	- vergi no
-	- javascript
-	- php
+  - javascript
+  - php
+  - vergi no
 ---
-
 
 ## PHP İLE VERGİ NUMARASI DOĞRULAMA
 
