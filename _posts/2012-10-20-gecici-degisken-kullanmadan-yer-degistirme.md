@@ -29,10 +29,12 @@ public class SwapWithTemp {
 ```
 
 #### Çıktı
-> x : 10
-> y : 20
-> x : 20
-> y : 10
+```
+x : 10
+y : 20
+x : 20
+y : 10
+```
 
 
 Yeni öğrendiğim yolda ise br temp değişkeni kullanılmıyor ve yer değiştirme işlemi aritmetik işlemlerle yapılıyor. 
@@ -54,10 +56,12 @@ public class SwapWithoutTemp {
 ```
 
 #### Çıktı
-> x : 10
-> y : 20
-> x : 20
-> y : 10
+```
+x : 10
+y : 20
+x : 20
+y : 10
+```
 
 
 Bu iki yöntem arasındaki temel farka gelirsek birisi bir değişken daha fazla kullanıyor ve hafızanızda daha fazla yer kaplıyor. 
