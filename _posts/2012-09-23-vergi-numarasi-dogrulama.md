@@ -1,12 +1,14 @@
 ---
 title: "Vergi Numarası Doğrulama"
+read_time: true
 categories:
 	- PHP
 tags:
-	- vergi numarası
+	- vergi no
 	- javascript
 	- php
 ---
+
 
 ## PHP İLE VERGİ NUMARASI DOĞRULAMA
 
