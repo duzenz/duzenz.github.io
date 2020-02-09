@@ -1,6 +1,5 @@
 ---
 title: Vergi Numarası Doğrulama
-read_time: true
 categories:
 	- PHP
 tags:
